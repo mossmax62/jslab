@@ -1,0 +1,19 @@
+{
+  "name": "ajs",
+  "version": "0.0.0",
+  "authors": [
+    "Maximiliano Mussuto"
+  ],
+  "description": "Pruebas de concepto de AngularJS",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "http://maxmussuto.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
